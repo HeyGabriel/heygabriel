@@ -1,6 +1,6 @@
 # HeyGabriel 🔥
 
-💼 Trabalhando em projetos.
+💼 Trabalhando em organizações pessoais.
 
 ### Projetos
 <details>
