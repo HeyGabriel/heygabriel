@@ -4,17 +4,18 @@
 
 ### Projetos
 <details>
-<summary>Projetos que fiz parte (clique para abrir)</summary>
+<summary>(clique para abrir)</summary>
 
-----------------------------------------------
-RoyalNetwork
-FreezeMC
-EnergyMC
-Heavenly
-Swezy
-DuskMC
-FireMC
-----------------------------------------------
+RoyalNetwork, 
+FreezeMC, 
+EnergyMC,
+Heavenly, 
+Swezy,
+DuskMC, 
+FireMC, 
+LeagueMC, 
+TitanNetwork.
+</details>
 
 ![profile] 
 
