@@ -2,6 +2,20 @@
 
 💼 Trabalhando em projetos.
 
+### Projetos
+<details>
+<summary>Projetos que fiz parte (clique para abrir)</summary>
+
+----------------------------------------------
+RoyalNetwork
+FreezeMC
+EnergyMC
+Heavenly
+Swezy
+DuskMC
+FireMC
+----------------------------------------------
+
 ![profile] 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tancGabriel)
