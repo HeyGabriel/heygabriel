@@ -6,14 +6,7 @@
 <details>
 <summary>(clique para abrir)</summary>
 
-LOOP MC
-Links: 
-    - loja.loop-mc.com.br
-    - discord.gg/loopmc
-    
-IP: 
-    - loop-mc.com.br
-    - jogar.loop-mc.com.br
+LoopMC
 </details>
 
 ![yiatzz's github stats](https://github-readme-stats.vercel.app/api?username=HeyGabriel&count_private=true&theme=radical)
