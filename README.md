@@ -2,19 +2,18 @@
 
 💼 Trabalhando em organizações pessoais.
 
-### Projetos
+### Projeto atual
 <details>
 <summary>(clique para abrir)</summary>
 
-RoyalNetwork, 
-FreezeMC, 
-EnergyMC,
-Heavenly, 
-Swezy,
-DuskMC, 
-FireMC, 
-LeagueMC, 
-TitanNetwork.
+LOOP MC
+Links: 
+    - loja.loop-mc.com.br
+    - discord.gg/loopmc
+    
+IP: 
+    - loop-mc.com.br
+    - jogar.loop-mc.com.br
 </details>
 
 ![yiatzz's github stats](https://github-readme-stats.vercel.app/api?username=HeyGabriel&count_private=true&theme=radical)
