@@ -1,4 +1,4 @@
-# HeyGabriel 🔥
+# HeyGabriel (executivo) 🔥
 
 💼 Trabalhando em organizações pessoais.
 
