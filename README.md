@@ -6,7 +6,9 @@
 <details>
 <summary>(clique para abrir)</summary>
 
-LoopMC
+Heavenly
+jogar.heavenlymc.com.br
+loja.heavenlymc.com.br
 </details>
 
 ![yiatzz's github stats](https://github-readme-stats.vercel.app/api?username=HeyGabriel&count_private=true&theme=radical)
