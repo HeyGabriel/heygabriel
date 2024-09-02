@@ -6,9 +6,7 @@
 <details>
 <summary>(clique para abrir)</summary>
 
-Heavenly
-jogar.heavenlymc.com.br
-loja.heavenlymc.com.br
+Harvonic
 </details>
 
 ![yiatzz's github stats](https://github-readme-stats.vercel.app/api?username=HeyGabriel&count_private=true&theme=radical)
