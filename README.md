@@ -1,4 +1,4 @@
-# HeyGabriel 🔥
+# Gabriel Duque 🔥
 
 💼 Trabalhando em organizações pessoais.
 
