@@ -1,6 +1,6 @@
 # Gabriel 🔥
 
-💼 Trabalhando em organizações pessoais.
+powered by *@Bypiramid*
 
 ### Projeto atual
 <details>
