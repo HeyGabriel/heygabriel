@@ -1,6 +1,6 @@
 # 🌩️ Gabriel Brito
 
-powered by *@Bypiramid*⃤
+powered by *@Bypiramid* *⃤*  
 
 ### Projeto atual
 <details>
